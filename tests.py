@@ -1,5 +1,4 @@
 from funcs import factorial
-import pytest
 
 
 def test_factorial_0():
