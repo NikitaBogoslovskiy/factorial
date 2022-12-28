@@ -4,6 +4,8 @@ def factorial(n: int):
 	return n * factorial(n - 1)
 
 
+# Делаем специальную синтаксическую ошибку
+print("Hello world!
 res = factorial(0)
 assert(res == 1)
 res = factorial(1)
